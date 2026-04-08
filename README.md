@@ -1,4 +1,4 @@
-# ankit_portfolio
+
 # 👋 Hi I'm ANKIT KUMAR
 
 Engineering student building frontend + backend systems.
@@ -9,7 +9,7 @@ Engineering student building frontend + backend systems.
 
 💬 Ask me about React.js, java script
 
-📫 How to reach me astudiopresents@gmail.com
+📫 How to reach me ankitzx62089@gmail.com
 
 ## Frontend
 ![Frontend](https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap,redux)
